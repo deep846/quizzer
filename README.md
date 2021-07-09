@@ -1,7 +1,7 @@
 # Quizzler ❓
  
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+![Finished App](https://github.com/deep846/assets/blob/master/quizzler-demo.gif)
 
 ## What I will learn
 
